@@ -8,8 +8,14 @@ dichos enfoques son:
 -Medio de transporte
 
 -Países implicados
- 
+
+
+Lenguaje utilizado:
+
+-Python
+
 
 IDE utilizado:
 
 -Spyder
+
